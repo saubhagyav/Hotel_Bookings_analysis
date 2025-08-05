@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/8783b6dc-939a-4c35-a0c4-2e652a77c365" />Here’s a clean and well-formatted version of your content that you can **copy-paste directly into your GitHub README.md** file. I've formatted it using proper Markdown syntax for clarity, structure, and readability.
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/8783b6dc-939a-4c35-a0c4-2e652a77c365" />
 
 ---
 
