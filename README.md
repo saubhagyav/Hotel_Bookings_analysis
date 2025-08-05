@@ -1,4 +1,5 @@
 #Hotel Booking Analysis Data
+
 Welcome to the Hotel Booking Analysis Data project! This repository contains the analysis and insights gathered from a comprehensive dataset of hotel bookings, focusing on trends, challenges, and actionable strategies for the hotel industry.
 
 Project Overview
